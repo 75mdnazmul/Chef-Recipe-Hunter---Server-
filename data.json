@@ -1,0 +1,469 @@
+[
+    {
+        "id": 1,
+        "chef_photo": "https://example.com/chef1.jpg",
+        "chef_name": "Zahra Hussaini",
+        "years_of_experience": 12,
+        "recipe_number": 3,
+        "likes_number": 345,
+        "bio": "Zahra is a seasoned chef with over a decade of experience cooking traditional Afghan dishes.",
+        "recipes": [
+            {
+                "name": "Kabuli Pulao",
+                "image": "https://example.com/kabuli_pulao.jpg",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "1 lb. lamb, cubed",
+                    "1 onion, chopped",
+                    "1 cup carrots, chopped",
+                    "1 cup raisins",
+                    "1/2 cup almonds, sliced",
+                    "1 tsp. cumin",
+                    "1 tsp. cinnamon",
+                    "1 tsp. cardamom",
+                    "4 cups water",
+                    "Salt to taste"
+                ],
+                "method": "1. Soak the rice in cold water for 30 minutes. Drain and rinse. 2. Heat oil in a large pot and add the lamb. Cook until browned on all sides. 3. Add the onion and cook until softened. 4. Add the carrots, raisins, and almonds, and cook for 5 minutes. 5. Add the spices and stir well. 6. Add the rice and water and bring to a boil. Reduce heat and simmer for 20-25 minutes, until the rice is cooked. 7. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mantu",
+                "image": "https://example.com/mantu.jpg",
+                "ingredients": [
+                    "1 lb. ground beef",
+                    "1 onion, chopped",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1/2 tsp. turmeric",
+                    "1/2 tsp. cayenne pepper",
+                    "Salt and pepper to taste",
+                    "3 cups flour",
+                    "1 cup water",
+                    "1 egg, beaten",
+                    "1 cup plain yogurt",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. dried mint",
+                    "Salt to taste"
+                ],
+                "method": "1. Mix the ground beef, onion, spices, salt, and pepper in a bowl. 2. Mix the flour and water to make a dough. Knead for 10 minutes. 3. Roll out the dough and cut into 3-inch circles. 4. Place a spoonful of the beef mixture in the center of each circle. 5. Pinch the edges of the dough together to form a dumpling. 6. Steam the dumplings for 20-25 minutes. 7. Mix the yogurt, garlic, mint, and salt to make a sauce. 8. Serve the dumplings hot with the yogurt sauce.",
+                "rating": 4.0
+            },
+            {
+                "name": "Bolani",
+                "image": "https://example.com/bolani.jpg",
+                "ingredients": [
+                    "2 cups flour",
+                    "1/2 tsp. salt",
+                    "1/2 cup water",
+                    "2 cups mashed potatoes",
+                    "1 onion, chopped",
+                    "1/2 cup fresh cilantro, chopped",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1/2 tsp. cayenne pepper",
+                    "Salt and pepper to taste",
+                    "Oil for frying"
+                ],
+                "method": "1. Mix the flour, salt, and water to make a dough. Knead for 5 minutes. 2. Cover and let the dough rest for 30 minutes. 3. Mix the mashed potatoes, onion, cilantro, spices, salt, and pepper in a bowl. 4. Divide the dough into 8 pieces and roll out each piece into a thin circle. 5. Spoon the potato mixture onto half of each circle and fold the other half over. 6. Press the edges together to seal. 7. Heat oil in a large skillet and fry the bolani until golden brown on both sides. 8. Serve hot.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_photo": "https://example.com/chef2.jpg",
+        "chef_name": "Ahmad Shah",
+        "years_of_experience": 8,
+        "recipe_number": 2,
+        "likes_number": 543,
+        "bio": "Ahmad specializes in cooking spicy and flavorful Afghan curries.",
+        "recipes": [
+            {
+                "name": "Qorma Lawand",
+                "image": "https://example.com/qorma_lawand.jpg",
+                "ingredients": [
+                    "1 lb. chicken, cut into pieces",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "1/2 cup plain yogurt",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. turmeric",
+                    "1/2 tsp. cayenne pepper",
+                    "1/2 tsp. cinnamon",
+                    "1 cup water",
+                    "2 tbsp. oil",
+                    "Salt to taste"
+                ],
+                "method": "1. Heat oil in a large pot and add the onion. Cook until softened. 2. Add the garlic and ginger and cook for 1 minute. 3. Add the chicken and cook until browned on all sides. 4. Add the yogurt and spices and stir well. 5. Add the water and bring to a boil. Reduce heat and simmer for 20-25 minutes, until the chicken is cooked. 6. Serve hot with rice or naan.",
+                "rating": 4.7
+            },
+            {
+                "name": "Kofta Challow",
+                "image": "https://example.com/kofta_challow.jpg",
+                "ingredients": [
+                    "1 lb. ground beef",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "1/2 cup plain yogurt",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. turmeric",
+                    "1/2 tsp. cayenne pepper",
+                    "1/2 tsp. cinnamon",
+                    "2 cups basmati rice",
+                    "4 cups water",
+                    "2 tbsp. oil",
+                    "Salt to taste"
+                ],
+                "method": "1. Mix the ground beef, onion, garlic, ginger, yogurt, and spices in a bowl. 2. Form the mixture into small balls. 3. Heat oil in a large pot and add the meatballs. Cook until browned on all sides. 4. Add the rice and water and bring to a boil. Reduce heat and simmer for 20-25 minutes, until the rice is cooked and the meatballs are tender. 5. Servehot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Adas Polo",
+                "image": "https://example.com/adas_polo.jpg",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "4 cups water",
+                    "1 tsp. salt",
+                    "1/4 cup vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tsp. ground cumin",
+                    "1 tsp. ground coriander",
+                    "1/2 tsp. ground cinnamon",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1 lb. ground beef or lamb",
+                    "1 cup lentils",
+                    "2 cups water",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1/4 cup raisins",
+                    "1/4 cup slivered almonds, toasted"
+                ],
+                "method": "1. In a pot, rinse the rice with cold water and drain. 2. Add the rice, water, and salt to the pot and bring to a boil over high heat. 3. Reduce the heat to low and cover the pot. 4. Cook for 20 minutes or until the rice is tender. 5. Fluff the rice with a fork. 6. In a separate pot, heat the vegetable oil over medium heat. 7. Add the onion and garlic and cook until softened. 8. Add the cumin, coriander, cinnamon, salt, and pepper and cook for 1 minute. 9. Add the ground beef or lamb and cook until browned. 10. Add the lentils, water, salt, and pepper. 11. Bring to a boil and then reduce the heat to low and simmer for 20-25 minutes or until the lentils are tender. 12. Stir in the raisins and toasted almonds. 13. Serve the adas polo over the rice.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_photo": "https://example.com/chef3.jpg",
+        "chef_name": "Zahra Noori",
+        "years_of_experience": 6,
+        "recipe_number": 2,
+        "likes_number": 789,
+        "bio": "Zahra is a pastry chef who loves to experiment with traditional Afghan ingredients in her desserts.",
+        "recipes": [
+            {
+                "name": "Firnee",
+                "image": "https://example.com/firnee.jpg",
+                "ingredients": [
+                    "4 cups milk",
+                    "3 tbsp. cornstarch",
+                    "1/2 cup sugar",
+                    "1 tsp. cardamom",
+                    "1 tbsp. rose water",
+                    "1/2 cup slivered almonds"
+                ],
+                "method": "1. Heat the milk in a large pot until it comes to a boil. Reduce heat and simmer for 20-25 minutes, stirring occasionally. 2. In a separate bowl, mix the cornstarch with 1/2 cup water until smooth. 3. Add the cornstarch mixture to the milk and stir well. 4. Add the sugar, cardamom, and rose water and stir until the sugar has dissolved. 5. Pour the mixture into individual serving dishes and refrigerate for at least 1 hour. 6. Sprinkle slivered almonds on top before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Kulcha-e-Murgh",
+                "image": "https://example.com/kulcha_e_murgh.jpg",
+                "ingredients": [
+                    "1 lb. boneless chicken, cut into pieces",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "1/2 cup plain yogurt",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. turmeric",
+                    "1/2 tsp. cayenne pepper",
+                    "1/2 tsp. cinnamon",
+                    "2 cups flour",
+                    "1/2 cup water",
+                    "1 tsp. salt",
+                    "Oil for frying"
+                ],
+                "method": "1. Mix the flour, water, and salt in a bowl to make a dough. Knead for 5 minutes. 2. Cover and let the dough rest for 30 minutes. 3. Heat oil in a large skillet and add the onion. Cook until softened. 4. Add the garlic and ginger and cook for 1 minute. 5. Add the chicken and cook until browned on all sides. 6. Add the yogurt and spices and stir well. 7. Divide the dough into 8 pieces and roll out each piece into a thin circle. 8. Spoon the chicken mixture onto half of each circle and fold the other half over. 9. Press the edges together to seal. 10. Heat oil in a large skillet and fry the kulcha until golden brown on both sides. 11. Serve hot.",
+                "rating": 4.4
+            },
+            {
+                "name": "Afghan Meatballs (Kofta)",
+                "image": "https://example.com/kofta.jpg",
+                "ingredients": [
+                    "1 lb. ground beef or lamb",
+                    "1 onion, grated",
+                    "1/4 cup chopped parsley",
+                    "1/4 cup chopped cilantro",
+                    "1 tsp. ground cumin",
+                    "1 tsp. ground coriander",
+                    "1/2 tsp. ground cinnamon",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1 egg",
+                    "1/2 cup bread crumbs",
+                    "2 tbsp. vegetable oil",
+                    "For the tomato sauce:",
+                    "2 tbsp. vegetable oil",
+                    "1 onion, chopped",
+                    "3 cloves garlic, minced",
+                    "1 can diced tomatoes",
+                    "1 tsp. ground cumin",
+                    "1 tsp. ground coriander",
+                    "1/2 tsp. ground cinnamon",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1/4 cup chopped parsley"
+                ],
+                "method": "1. Preheat the oven to 400°F. 2. In a large bowl, mix the ground beef or lamb, onion, parsley, cilantro, cumin, coriander, cinnamon, salt, pepper, egg, and bread crumbs. 3. Shape the mixture into balls and place on a baking sheet. 4. Drizzle with vegetable oil and bake for 20 minutes or until browned. 5. In a saucepan, heat the vegetable oil over medium heat. 6. Add the onion and garlic and cook until softened. 7. Add the diced tomatoes, cumin, coriander, cinnamon, salt, and pepper. 8. Bring to a boil and then reduce the heat to low and simmer for 15 minutes. 9. Pour the tomato sauce over the meatballs and sprinkle with chopped parsley. 10. Serve hot.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_photo": "https://example.com/chef4.jpg",
+        "chef_name": "Hassan Naderi",
+        "years_of_experience": 10,
+        "recipe_number": 2,
+        "likes_number": 1024,
+        "bio": "Hassan is a master of Afghan street food and loves to recreate his childhoodfavorites with his own twists.",
+        "recipes": [
+            {
+                "name": "Bolani",
+                "image": "https://example.com/bolani.jpg",
+                "ingredients": [
+                    "2 cups flour",
+                    "1/2 tsp. salt",
+                    "1/2 cup water",
+                    "1 lb. potatoes, boiled and mashed",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1/2 tsp. cumin",
+                    "1/2 tsp. coriander",
+                    "1/4 tsp. cayenne pepper",
+                    "1/4 cup chopped cilantro",
+                    "Oil for frying"
+                ],
+                "method": "1. Mix the flour, salt, and water in a bowl to make a dough. Knead for 5 minutes. 2. Cover and let the dough rest for 30 minutes. 3. Heat oil in a large skillet and add the onion. Cook until softened. 4. Add the garlic and cook for 1 minute. 5. Add the potatoes and spices and stir well. 6. Divide the dough into 8 pieces and roll out each piece into a thin circle. 7. Spoon the potato mixture onto half of each circle and fold the other half over. 8. Press the edges together to seal. 9. Heat oil in a large skillet and fry the bolani until golden brown on both sides. 10. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "name": "Jalebi",
+                "image": "https://example.com/jalebi.jpg",
+                "ingredients": [
+                    "1 cup flour",
+                    "1 tbsp. cornstarch",
+                    "1/2 tsp. baking powder",
+                    "1/2 cup plain yogurt",
+                    "1 cup warm water",
+                    "1/4 tsp. saffron threads",
+                    "1 1/2 cups sugar",
+                    "1 cup water",
+                    "1 tsp. rose water",
+                    "Oil for frying"
+                ],
+                "method": "1. Mix the flour, cornstarch, and baking powder in a bowl. 2. Add the yogurt, warm water, and saffron and mix well. 3. Cover and let the batter ferment for 4-5 hours. 4. In a saucepan, combine the sugar, water, and rose water. Cook over medium heat until the sugar dissolves. 5. Increase the heat and bring the syrup to a boil. Cook until the syrup thickens. 6. Heat oil in a deep frying pan. 7. Pour the batter into a squeeze bottle with a small opening. 8. Squeeze the batter in a spiral shape into the hot oil. 9. Fry until the jalebis are golden brown. 10. Remove from the oil and dip them into the syrup. 11. Serve warm.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mantoo",
+                "image": "https://example.com/mantoo.jpg",
+                "ingredients": [
+                    "For the dough:",
+                    "3 cups flour",
+                    "1/2 tsp. salt",
+                    "1 cup water",
+                    "For the filling:",
+                    "1 lb. ground beef",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1/2 tsp. cinnamon",
+                    "Salt and pepper to taste",
+                    "For the sauce:",
+                    "2 cups plain yogurt",
+                    "2 cloves garlic, minced",
+                    "1/4 cup chopped cilantro",
+                    "Salt and pepper to taste"
+                ],
+                "method": "1. Mix the flour, salt, and water in a bowl to make a dough. Knead for 5 minutes. 2. Cover and let the dough rest for 30 minutes. 3. In a skillet, cook the ground beef until browned. 4. Add the onion, garlic, and spices and cook until the onion is soft. 5. Season with salt and pepper to taste. 6. Roll the dough out into a thin sheet and cut into 3-inch circles. 7. Spoon a small amount of the filling onto each circle and fold in half. 8. Pinch the edges together to seal. 9. Steam the mantoo for 20-25 minutes. 10. In a bowl, mix the yogurt, garlic, cilantro, salt, and pepper to make the sauce. 11. Serve the mantoo hot with the yogurt sauce.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_photo": "https://example.com/chef_006.jpg",
+        "chef_name": "Safiya Hussain",
+        "years_of_experience": 10,
+        "recipe_number": 5,
+        "likes_number": 8923,
+        "bio": "Safiya is a renowned chef from Afghanistan who has been featured in many food magazines. She specializes in traditional Afghan cuisine and has been cooking for over a decade. Her passion for cooking started at a young age and she has since perfected many of her family recipes. She believes that food brings people together and is dedicated to sharing the flavors and traditions of her culture with others.",
+        "recipes": [
+            {
+                "name": "Kabuli Pulao",
+                "image": "https://example.com/kabuli_pulao.jpg",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "1 lb. lamb or beef, cubed",
+                    "2 onions, sliced",
+                    "3 carrots, peeled and sliced",
+                    "1/2 cup raisins",
+                    "1/2 cup almonds, sliced",
+                    "1/4 cup sugar",
+                    "2 tbsp. vegetable oil",
+                    "4 cups water",
+                    "Salt and pepper to taste"
+                ],
+                "method": "1. Wash the rice in cold water and drain. 2. In a large pot, heat the oil over medium heat. 3. Add the onions and cook until golden brown. 4. Add the meat and cook until browned. 5. Add the carrots, raisins, almonds, sugar, salt, and pepper. 6. Pour in the water and bring to a boil. 7. Reduce the heat and simmer for 30 minutes. 8. Add the rice and stir well. 9. Cover and simmer for another 30 minutes or until the rice is cooked. 10. Serve hot.",
+                "rating": 4.9
+            },
+            {
+                "name": "Mantu",
+                "image": "https://example.com/mantu.jpg",
+                "ingredients": [
+                    "For the dough:",
+                    "3 cups flour",
+                    "1/2 tsp. salt",
+                    "1 cup water",
+                    "For the filling:",
+                    "1 lb. ground beef or lamb",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1/2 tsp. cinnamon",
+                    "Salt and pepper to taste",
+                    "For the sauce:",
+                    "2 cups plain yogurt",
+                    "2 cloves garlic, minced",
+                    "1/4 cup chopped cilantro",
+                    "Salt and pepper to taste"
+                ],
+                "method": "1. Mix the flour, salt, and water in a bowl to make a dough. Knead for 5 minutes. 2. Cover and let the dough rest for 30 minutes. 3. In a skillet, cook the ground beef until browned. 4. Add the onion, garlic, and spices and cook until the onion is soft. 5. Season with salt and pepper to taste. 6. Roll the dough out into a thin sheet and cut into 3-inch circles. 7. Spoon a small amount of the filling onto each circle and fold in half. 8. Pinch the edges together to seal. 9. Steam the mantu for 20-25 minutes. 10. In a bowl, mix the yogurt, garlic, cilantro, salt, and pepper to make the sauce. 11. Serve the mantu hot with the yogurt sauce.",
+                "rating": 4.7
+            },
+            {
+                "name": "Afghan Meatballs (Kofta)",
+                "image": "https://example.com/kofta.jpg",
+                "ingredients": [
+                    "1 lb. ground beef or lamb",
+                    "1 onion, grated",
+                    "1/4 cup chopped parsley",
+                    "1/4 cup chopped cilantro",
+                    "1 tsp. ground cumin",
+                    "1 tsp. ground coriander",
+                    "1/2 tsp. ground cinnamon",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1 egg",
+                    "1/2 cup bread crumbs",
+                    "2 tbsp. vegetable oil",
+                    "For the tomato sauce:",
+                    "2 tbsp. vegetable oil",
+                    "1 onion, chopped",
+                    "3 cloves garlic, minced",
+                    "1 can diced tomatoes",
+                    "1 tsp. ground cumin",
+                    "1 tsp. ground coriander",
+                    "1/2 tsp. ground cinnamon",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1/4 cup chopped parsley"
+                ],
+                "method": "1. Preheat the oven to 400°F. 2. In a large bowl, mix the ground beef or lamb, onion, parsley, cilantro, cumin, coriander, cinnamon, salt, pepper, egg, and bread crumbs. 3. Shape the mixture into balls and place on a baking sheet. 4. Drizzle with vegetable oil and bake for 20 minutes or until browned. 5. In a saucepan, heat the vegetable oil over medium heat. 6. Add the onion and garlic and cook until softened. 7. Add the diced tomatoes, cumin, coriander, cinnamon, salt, and pepper. 8. Bring to a boil and then reduce the heat to low and simmer for 15 minutes. 9. Pour the tomato sauce over the meatballs and sprinkle with chopped parsley. 10. Serve hot.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_photo": "https://example.com/chef5.jpg",
+        "chef_name": "Fahimeh Ebrahimi",
+        "years_of_experience": 20,
+        "recipe_number": 8,
+        "likes_number": 134,
+        "bio": "Fahimeh Ebrahimi is a master chef and cookbook author known for her expertise in Persian cuisine. With over 20 years of experience, she has perfected the art of creating traditional dishes that are both delicious and visually stunning. Her recipes are inspired by the flavors and aromas of the Persian bazaar, and she is passionate about sharing her love of Persian food with others.",
+        "recipes": [
+            {
+                "name": "Chelo Kabab Koobideh",
+                "image": "https://example.com/chelo_kabab.jpg",
+                "ingredients": [
+                    "1 lb. ground beef or lamb",
+                    "1 onion, grated",
+                    "1/4 cup chopped parsley",
+                    "1/4 cup chopped cilantro",
+                    "1 tsp. ground cumin",
+                    "1 tsp. ground coriander",
+                    "1/2 tsp. ground cinnamon",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1 egg",
+                    "1/2 cup bread crumbs",
+                    "2 tbsp. vegetable oil",
+                    "2 cups basmati rice",
+                    "4 cups water",
+                    "1 tsp. salt",
+                    "1/4 cup butter, melted"
+                ],
+                "method": "1. Preheat the grill to high heat. 2. In a large bowl, mix the ground beef or lamb, onion, parsley, cilantro, cumin, coriander, cinnamon, salt, pepper, egg, and bread crumbs. 3. Shape the mixture into long, thin kabobs. 4. Brush with vegetable oil and grill for 6-8 minutes on each side. 5. In a pot, rinse the rice with cold water and drain. 6.Add the rice, water, and salt to the pot and bring to a boil over high heat. 7. Reduce the heat to low and cover the pot. 8. Cook for 20 minutes or until the rice is tender. 9. Fluff the rice with a fork and stir in the melted butter. 10. Serve the kabobs over the rice.",
+                "rating": 4.8
+            },
+            {
+                "name": "Kuku Sabzi",
+                "image": "https://example.com/kuku_sabzi.jpg",
+                "ingredients": [
+                    "1/2 cup chopped scallions",
+                    "1/2 cup chopped parsley",
+                    "1/2 cup chopped cilantro",
+                    "1/2 cup chopped dill",
+                    "1/2 cup chopped fenugreek",
+                    "1/2 cup chopped spinach",
+                    "6 eggs",
+                    "1/2 tsp. baking powder",
+                    "1 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "2 tbsp. vegetable oil"
+                ],
+                "method": "1. Preheat the oven to 350°F. 2. In a large bowl, mix the scallions, parsley, cilantro, dill, fenugreek, spinach, eggs, baking powder, salt, and pepper. 3. Heat the vegetable oil in an oven-safe skillet over medium heat. 4. Pour the egg mixture into the skillet and cook for 5 minutes. 5. Transfer the skillet to the oven and bake for 15-20 minutes or until the kuku sabzi is set. 6. Cut into wedges and serve hot or cold.",
+                "rating": 4.6
+            },
+            {
+                "name": "Adas Polo",
+                "image": "https://example.com/adas_polo.jpg",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "4 cups water",
+                    "1 tsp. salt",
+                    "1/4 cup vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tsp. ground cumin",
+                    "1 tsp. ground coriander",
+                    "1/2 tsp. ground cinnamon",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1 lb. ground beef or lamb",
+                    "1 cup lentils",
+                    "2 cups water",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. black pepper",
+                    "1/4 cup raisins",
+                    "1/4 cup slivered almonds, toasted"
+                ],
+                "method": "1. In a pot, rinse the rice with cold water and drain. 2. Add the rice, water, and salt to the pot and bring to a boil over high heat. 3. Reduce the heat to low and cover the pot. 4. Cook for 20 minutes or until the rice is tender. 5. Fluff the rice with a fork. 6. In a separate pot, heat the vegetable oil over medium heat. 7. Add the onion and garlic and cook until softened. 8. Add the cumin, coriander, cinnamon, salt, and pepper and cook for 1 minute. 9. Add the ground beef or lamb and cook until browned. 10. Add the lentils, water, salt, and pepper. 11. Bring to a boil and then reduce the heat to low and simmer for 20-25 minutes or until the lentils are tender. 12. Stir in the raisins and toasted almonds. 13. Serve the adas polo over the rice.",
+                "rating": 4.5
+            }
+        ]
+    }
+]
