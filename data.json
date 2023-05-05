@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "chef_photo": "https://example.com/chef1.jpg",
+        "chef_photo": "https://www.shutterstock.com/image-photo/young-beautiful-smiling-woman-chef-600w-1889627056.jpg",
         "chef_name": "Zahra Hussaini",
         "years_of_experience": 12,
-        "recipe_number": 3,
+        "recipe_number": 9,
         "likes_number": 345,
         "bio": "Zahra is a seasoned chef with over a decade of experience cooking traditional Afghan dishes.",
         "recipes": [
             {
                 "name": "Kabuli Pulao",
-                "image": "https://example.com/kabuli_pulao.jpg",
+                "image": "https://previews.123rf.com/images/forewer/forewer1206/forewer120600142/14027105-piping-hot-pilau-on-a-plate.jpg",
                 "ingredients": [
                     "2 cups basmati rice",
                     "1 lb. lamb, cubed",
@@ -29,7 +29,7 @@
             },
             {
                 "name": "Mantu",
-                "image": "https://example.com/mantu.jpg",
+                "image": "https://previews.123rf.com/images/yatomo/yatomo1705/yatomo170500213/77249249-traditional-turkish-manti-with-yogurt-and-vinegar-as-close-up-on-a-plate.jpg",
                 "ingredients": [
                     "1 lb. ground beef",
                     "1 onion, chopped",
@@ -51,7 +51,7 @@
             },
             {
                 "name": "Bolani",
-                "image": "https://example.com/bolani.jpg",
+                "image": "https://previews.123rf.com/images/lenyvavsha/lenyvavsha1905/lenyvavsha190500131/122244728-rustic-style-afghan-fried-flatbread-bolani-stuffed-with-potatoes-green-onions-and-cilantro-close-up.jpg",
                 "ingredients": [
                     "2 cups flour",
                     "1/2 tsp. salt",
@@ -72,16 +72,16 @@
     },
     {
         "id": 2,
-        "chef_photo": "https://example.com/chef2.jpg",
-        "chef_name": "Ahmad Shah",
-        "years_of_experience": 8,
-        "recipe_number": 2,
+        "chef_photo": "https://www.shutterstock.com/image-photo/chefcooker-chefs-hat-jacket-working-600w-2260461393.jpg",
+        "chef_name": "Ahmad Rian",
+        "years_of_experience": 28,
+        "recipe_number": 6,
         "likes_number": 543,
         "bio": "Ahmad specializes in cooking spicy and flavorful Afghan curries.",
         "recipes": [
             {
                 "name": "Qorma Lawand",
-                "image": "https://example.com/qorma_lawand.jpg",
+                "image": "https://previews.123rf.com/images/fanfo/fanfo2005/fanfo200500327/147361224-lagan-ka-gosht-hyderabadi-mutton-dish-curry-in-aromatic-spices.jpg",
                 "ingredients": [
                     "1 lb. chicken, cut into pieces",
                     "1 onion, chopped",
@@ -102,7 +102,7 @@
             },
             {
                 "name": "Kofta Challow",
-                "image": "https://example.com/kofta_challow.jpg",
+                "image": "https://previews.123rf.com/images/lenyvavsha/lenyvavsha2002/lenyvavsha200200157/140020638-kofta-chalao-stewed-meat-balls-in-spicy-sauce-with-yellow-peas-served-with-basmati-rice-close-up-in.jpg",
                 "ingredients": [
                     "1 lb. ground beef",
                     "1 onion, chopped",
@@ -124,7 +124,7 @@
             },
             {
                 "name": "Adas Polo",
-                "image": "https://example.com/adas_polo.jpg",
+                "image": "https://blog.termehtravel.com/wp-content/uploads/2020/07/10.jpg",
                 "ingredients": [
                     "2 cups basmati rice",
                     "4 cups water",
@@ -152,16 +152,16 @@
     },
     {
         "id": 3,
-        "chef_photo": "https://example.com/chef3.jpg",
+        "chef_photo": "https://www.shutterstock.com/image-photo/cooking-culinary-people-concept-happy-600w-2193716849.jpg",
         "chef_name": "Zahra Noori",
         "years_of_experience": 6,
-        "recipe_number": 2,
+        "recipe_number": 4,
         "likes_number": 789,
         "bio": "Zahra is a pastry chef who loves to experiment with traditional Afghan ingredients in her desserts.",
         "recipes": [
             {
                 "name": "Firnee",
-                "image": "https://example.com/firnee.jpg",
+                "image": "https://previews.123rf.com/images/manubahuguna/manubahuguna1402/manubahuguna140200321/26603431-firnee-traditional-dessert-in-the-indian-subcontinent.jpg",
                 "ingredients": [
                     "4 cups milk",
                     "3 tbsp. cornstarch",
@@ -175,7 +175,7 @@
             },
             {
                 "name": "Kulcha-e-Murgh",
-                "image": "https://example.com/kulcha_e_murgh.jpg",
+                "image": "https://i.ndtvimg.com/i/2015-01/murgh-makhni_625x350_61421325380.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
                 "ingredients": [
                     "1 lb. boneless chicken, cut into pieces",
                     "1 onion, chopped",
@@ -197,7 +197,7 @@
             },
             {
                 "name": "Afghan Meatballs (Kofta)",
-                "image": "https://example.com/kofta.jpg",
+                "image": "https://2.bp.blogspot.com/-_bAnayLVxkQ/V097uvW9B1I/AAAAAAAAIK8/ChpivOpYQKgzlUUAbLYwCffk8_Ojy_T5gCLcB/s1600/afgani-meatballs-curry.jpg",
                 "ingredients": [
                     "1 lb. ground beef or lamb",
                     "1 onion, grated",
@@ -230,16 +230,16 @@
     },
     {
         "id": 4,
-        "chef_photo": "https://example.com/chef4.jpg",
+        "chef_photo": "https://www.shutterstock.com/image-photo/chef-cook-holds-knife-over-600w-755387323.jpg",
         "chef_name": "Hassan Naderi",
         "years_of_experience": 10,
-        "recipe_number": 2,
+        "recipe_number": 5,
         "likes_number": 1024,
         "bio": "Hassan is a master of Afghan street food and loves to recreate his childhoodfavorites with his own twists.",
         "recipes": [
             {
                 "name": "Bolani",
-                "image": "https://example.com/bolani.jpg",
+                "image": "https://previews.123rf.com/images/yatomo/yatomo2006/yatomo200600012/148873911-traditional-south-american-empanada-de-carne-offered-with-a-chili-dip-as-closeup-on-a-rustic-wooden.jpg",
                 "ingredients": [
                     "2 cups flour",
                     "1/2 tsp. salt",
@@ -258,7 +258,7 @@
             },
             {
                 "name": "Jalebi",
-                "image": "https://example.com/jalebi.jpg",
+                "image": "https://previews.123rf.com/images/rickysoni/rickysoni1812/rickysoni181201003/115197388-indian-sweet-food-imarti-also-know-as-amriti-omriti-jahangir-jalebi-jaangiri-it-is-mde-by-deep.jpg",
                 "ingredients": [
                     "1 cup flour",
                     "1 tbsp. cornstarch",
@@ -276,7 +276,7 @@
             },
             {
                 "name": "Mantoo",
-                "image": "https://example.com/mantoo.jpg",
+                "image": "https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/133808443_121000533198766_7491416077617776684_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=102&ccb=1-7&_nc_sid=8024bb&efg=eyJpIjoiYiJ9&_nc_ohc=IpqFlUMus28AX9rwv3S&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfC9nIjO3iTsh1s4kP1mhRs0ZzxbCw97N2zt1ghXXzabEA&oe=647C3C6A",
                 "ingredients": [
                     "For the dough:",
                     "3 cups flour",
@@ -303,16 +303,16 @@
     },
     {
         "id": 5,
-        "chef_photo": "https://example.com/chef_006.jpg",
+        "chef_photo": "https://www.shutterstock.com/image-photo/portrait-indian-woman-chef-uniform-600w-296555471.jpg",
         "chef_name": "Safiya Hussain",
         "years_of_experience": 10,
-        "recipe_number": 5,
+        "recipe_number": 3,
         "likes_number": 8923,
         "bio": "Safiya is a renowned chef from Afghanistan who has been featured in many food magazines. She specializes in traditional Afghan cuisine and has been cooking for over a decade. Her passion for cooking started at a young age and she has since perfected many of her family recipes. She believes that food brings people together and is dedicated to sharing the flavors and traditions of her culture with others.",
         "recipes": [
             {
                 "name": "Kabuli Pulao",
-                "image": "https://example.com/kabuli_pulao.jpg",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Afghan_Palo.jpg",
                 "ingredients": [
                     "2 cups basmati rice",
                     "1 lb. lamb or beef, cubed",
@@ -330,7 +330,7 @@
             },
             {
                 "name": "Mantu",
-                "image": "https://example.com/mantu.jpg",
+                "image": "https://tasteoftheplace.com/wp-content/uploads/2017/10/Afghan-Mantu-at-TasteOfThePlace.com-inline-6.jpg?ezimgfmt=ng:webp/ngcb1",
                 "ingredients": [
                     "For the dough:",
                     "3 cups flour",
@@ -355,7 +355,7 @@
             },
             {
                 "name": "Afghan Meatballs (Kofta)",
-                "image": "https://example.com/kofta.jpg",
+                "image": "https://2.bp.blogspot.com/-Gc8vRiwlSm0/V09589VP_HI/AAAAAAAAIKw/K4JSiPYtCus0U2-VIyYV99A7n2y-2EkrACLcB/s1600/afgani-meatballs-curry2.jpg",
                 "ingredients": [
                     "1 lb. ground beef or lamb",
                     "1 onion, grated",
@@ -388,7 +388,7 @@
     },
     {
         "id": 6,
-        "chef_photo": "https://example.com/chef5.jpg",
+        "chef_photo": "https://www.shutterstock.com/image-photo/indian-woman-cooking-pan-stick-600w-1630379188.jpg",
         "chef_name": "Fahimeh Ebrahimi",
         "years_of_experience": 20,
         "recipe_number": 8,
@@ -397,7 +397,7 @@
         "recipes": [
             {
                 "name": "Chelo Kabab Koobideh",
-                "image": "https://example.com/chelo_kabab.jpg",
+                "image": "https://fauziaskitchenfun.com/wp-content/uploads/2012/04/42-1024x765.jpg",
                 "ingredients": [
                     "1 lb. ground beef or lamb",
                     "1 onion, grated",
@@ -421,7 +421,7 @@
             },
             {
                 "name": "Kuku Sabzi",
-                "image": "https://example.com/kuku_sabzi.jpg",
+                "image": "https://www.themediterraneandish.com/wp-content/uploads/2017/11/Kuku-Sabzi-Baked-Persian-Herb-Omelet-The-Mediterranean-Dish-5.jpg",
                 "ingredients": [
                     "1/2 cup chopped scallions",
                     "1/2 cup chopped parsley",
@@ -440,7 +440,7 @@
             },
             {
                 "name": "Adas Polo",
-                "image": "https://example.com/adas_polo.jpg",
+                "image": "https://www.proportionalplate.com/wp-content/uploads/2022/10/Adas-PoloOct-14-202202.jpg",
                 "ingredients": [
                     "2 cups basmati rice",
                     "4 cups water",

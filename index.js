@@ -3,11 +3,13 @@ const cors = require("cors");
 const app = express();
 app.use(cors())
 
+
 const chafData = require("./data.json")
 
 app.get('/', (req, res)=>{
     res.json({ message: "hello server running"})
 })
+
 
 app.get('/chefAllData', (req, res)=>{
     res.send(chafData)
